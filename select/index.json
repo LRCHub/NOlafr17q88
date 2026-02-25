@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "なんでもしたいからッ!!。 -Instrumental-",
+  "base_artist": "9Lana",
+  "createdAt": "2026-02-25T08:45:13.612333Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なんでもしたいからッ!!。",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/pl_01_なんでもしたいからッ!!。_9Lana.txt"
+    }
+  ]
+}
